@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# MIMIC-IV data must NEVER be committed (PhysioNet DUA)
+data/*
+!data/.gitkeep
+lake/
+*.parquet
+*.csv
+*.csv.gz
+*.duckdb
+*.duckdb.wal
+
+.DS_Store
+.idea/
+.vscode/
