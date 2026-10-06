@@ -28,9 +28,9 @@
 - [x] `git config` name + email set
 - [x] GitHub account + repo `mimic-iv-lakehouse` created (proof: https://github.com/sedooo02/Mimic-IV-lakehouse)
 - [x] First commit pushed (proof: commit `789b289`)
-- [ ] VS Code + Python 3.12 + venv
-- [ ] `pip install duckdb pyarrow`
-- [ ] Hello pipeline: `hosp/patients.csv.gz` → Parquet → `SELECT COUNT(*)` with DuckDB (proof: row count)
+- [x] VS Code + Python 3.12 + venv
+- [x] `pip install duckdb pyarrow`
+- [x] Hello pipeline: `hosp/patients.csv.gz` → Parquet → `SELECT COUNT(*)` with DuckDB (proof: row count)
 
 ### Coursera: C1 Weeks 1–2
 - [ ] W1 videos + quiz (score: ___)
