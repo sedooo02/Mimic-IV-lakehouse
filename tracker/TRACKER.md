@@ -14,7 +14,7 @@
 | Metric | Target by Dec 6 | Now |
 |---|---|---|
 | SQL problems solved | 120+ | 0 |
-| Commits | 50+ | 0 |
+| Commits | 50+ | 1 |
 | Coursera courses done | 4/4 | 0 |
 | DataCamp SQL track courses | all | 0 |
 | Notes written in notes/ | 25+ | 0 |
@@ -25,9 +25,9 @@
 
 ### Setup (proof = command output, screenshot or link)
 - [x] Git installed (`C:\Program Files\Git`)
-- [ ] `git config` name + email set
-- [ ] GitHub account + repo `mimic-iv-lakehouse` created (proof: repo URL)
-- [ ] First commit pushed (proof: commit URL)
+- [x] `git config` name + email set
+- [x] GitHub account + repo `mimic-iv-lakehouse` created (proof: https://github.com/sedooo02/Mimic-IV-lakehouse)
+- [x] First commit pushed (proof: commit `789b289`)
 - [ ] VS Code + Python 3.12 + venv
 - [ ] `pip install duckdb pyarrow`
 - [ ] Hello pipeline: `hosp/patients.csv.gz` → Parquet → `SELECT COUNT(*)` with DuckDB (proof: row count)
